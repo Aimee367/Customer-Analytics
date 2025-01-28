@@ -37,11 +37,11 @@ This project is part of the Capstone-2 series, focusing on comprehensive custome
 - Provided actionable insights for customer engagement strategies.
 
 **Usage**
-****Clone the repository:****
+- ****Clone the repository:****
 (git clone https://github.com/username/customer-analysis.git)
-****Install dependencies:****
+- ****Install dependencies:****
 (pip install -r requirements.txt)
-****Run the Jupyter Notebook:****
+- ****Run the Jupyter Notebook:****
 (jupyter notebook customer_analysis.ipynb)
 
 **License**

@@ -1,5 +1,5 @@
 # Customer-Analytics
-*Overview*
+
 This project is part of the Capstone-2 series, focusing on comprehensive customer analytics (CA) to extract valuable insights and drive data-driven decision-making. The analysis covers key performance indicators (KPIs), customer segmentation, and predictive modeling.
 
 **Objectives**
